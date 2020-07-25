@@ -1,0 +1,5 @@
+instalar pyinstaller (para gerar o exe)
+pip install pyinstaller
+
+comando
+pyinstaller script.py
